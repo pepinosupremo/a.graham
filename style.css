@@ -1,0 +1,62 @@
+.container{
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    background-color: aqua;
+    margin: 0;
+    padding: 2em;
+
+}
+
+.navbar{
+    display: inline-flex;
+    font-size: 20px;
+}
+
+.insta{
+    display: inline-flex;
+    height: 20px;
+    width: auto;
+}
+
+.navbar a{
+    justify-content: center;
+    padding: 1em;
+}
+
+.content{
+    display: flex;
+}
+
+.works{
+    display: flex;
+    margin: 2.5em;
+    max-width: 800px;
+    padding: 2.5em;
+}
+
+.print{
+    display: flex;
+    width: 50px;
+    margin: 2.5em;
+}
+
+.paint{
+    display: flex;
+    width: 50px;
+    margin: 2.5em;
+}
+
+.mixed{
+    display: flex;
+    width: 50px;
+    margin: 2.5em;
+}
+
+.photo{
+    display: flex;
+    width: 50px;
+    margin: 2.5em;
+}
